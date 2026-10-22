@@ -1,2 +1,2 @@
-EDF Gantt Chart.
+# EDF Gantt Chart.
 # RM-Gantt-Chart.
